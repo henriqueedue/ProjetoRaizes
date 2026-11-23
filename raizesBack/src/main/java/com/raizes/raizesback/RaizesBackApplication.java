@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class RaizesBackApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(RaizesBackApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(RaizesBackApplication.class, args);
+    }
 }

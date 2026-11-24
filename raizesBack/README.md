@@ -95,3 +95,8 @@ Exemplo de criação de pedido (`canalPedido` obrigatório):
 - Cobertura: login/token (200), sem token (401), sem permissão (403), validação (400/422), produto/unidade inexistente (404), estoque insuficiente (409), pagamento aprovado/recusado/falha de gateway, filtro por canal, auditoria.
 - **Testes automatizados:** `src/test/java/.../FluxoPedidoTest.java`.
 - Links (preencher na entrega): Repositório: `https://github.com/henriqueedue/ProjetoRaizes` · Swagger local: `http://localhost:8080/swagger-ui.html`
+
+## Escopo da entrega
+
+Entrega da trilha Back-end. Um prot�tipo de front-end, gerado com a ferramenta Manus, foi removido do reposit�rio por estar fora do escopo.
+
